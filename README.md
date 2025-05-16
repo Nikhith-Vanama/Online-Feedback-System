@@ -1,1 +1,2 @@
 # Online-Feedback-System
+Online Feedback System is a web-based application that allows users to submit feedback through an easy-to-use form. It collects responses like ratings and comments, which are stored in a database for analysis. The system helps organizations gather valuable insights to improve services or products. Admins can view and analyze feedback reports to make informed decisions. This project enhances the efficiency and accuracy of traditional feedback collection methods.
